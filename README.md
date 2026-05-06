@@ -50,4 +50,4 @@
 - **Flutter / Kotlin / Java** - تطوير التطبيق
 - **SQLite / Firebase** - قاعدة بيانات للتخزين المحلي أو السحابي
 - **Material Design** - تصميم واجهة المستخدم
-*
+
