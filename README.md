@@ -1,16 +1,56 @@
-# shreif1
+# 💰 Money APK - تطبيق إدارة الأموال الشخصية
 
-A new Flutter project.
+تطبيق شخصي لإدارة الأموال يساعد المستخدمين على تتبع دخولهم، مشترياتهم، وديونهم. يتيح التطبيق تسجيل الأرباح، وتتبع المصروفات على المنتجات، وإدارة الأموال المستحقة للآخرين.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ المميزات
 
-A few resources to get you started if this is your first Flutter project:
+### 💰 تتبع الدخل
+- تسجيل جميع مصادر الدخل
+- عرض إجمالي الدخل بشكل واضح
+- تنظيم الدخل حسب التاريخ
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🛒 تتبع المشتريات
+- تسجيل المنتجات التي تم شراؤها
+- تتبع المصروفات الشهرية
+- تنظيم المشتريات حسب الفئة
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 📋 إدارة الديون
+- تسجيل الديون المستحقة عليك للآخرين
+- تتبع الديون التي تم سدادها
+- عرض المبالغ المتبقية
+
+### 📊 الملخص المالي
+- إجمالي الدخل (Total Income)
+- إجمالي المصروفات (Expenses)
+- الديون المستحقة (Outstanding Debts)
+- الديون المسددة (Repaid Debts)
+
+### 🔄 إعادة تعيين البيانات
+- مسح جميع البيانات لبدء فترة مالية جديدة
+
+---
+
+## 📱 نظرة عامة على التطبيق
+
+هذا التطبيق مصمم للأشخاص الذين يرغبون في:
+
+| الهدف | الوصف |
+|-------|-------|
+| 📈 تتبع الأموال | معرفة أين تذهب أموالك بالضبط |
+| 📝 تسجيل الديون | عدم نسيان من عليك له مال |
+| 🛍️ مراقبة المشتريات | التحكم في عادات الشراء |
+| 📊 تحليل مالي | فهم الصورة المالية الكاملة |
+
+---
+
+## 🛠️ التقنيات المستخدمة *(المتوقعة)*
+
+- **Flutter / Kotlin / Java** - تطوير التطبيق
+- **SQLite / Firebase** - قاعدة بيانات للتخزين المحلي أو السحابي
+- **Material Design** - تصميم واجهة المستخدم
+
+---
+
+## 📁 هيكل التطبيق *(المتوقع)*
